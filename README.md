@@ -1,12 +1,11 @@
 # LeetCode Solutions
 
-This repository contains my solutions to Data Structures and Algorithms problems solved on LeetCode.
-
-## Language
-- C++
+This repository contains my C++ solutions to Data Structures and Algorithms problems solved on LeetCode.
 
 ## Problems Solved
 
-| # | Problem |
-|---|---------|
-| 1 | Max Consecutive Ones |
+1. Max Consecutive Ones
+2. Reverse Integer
+3. Rotate Array
+
+I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

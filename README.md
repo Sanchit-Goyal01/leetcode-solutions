@@ -9,3 +9,15 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 3. Rotate Array
 
 I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sanchit-Goyal01/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sanchit-Goyal01/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

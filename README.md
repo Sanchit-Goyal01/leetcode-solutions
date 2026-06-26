@@ -20,5 +20,5 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 14. Majiority Element
 
 
-I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
+## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
 

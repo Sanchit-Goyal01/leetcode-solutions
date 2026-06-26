@@ -12,6 +12,8 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 6. Remove Duplicates from Sorted Array
 7. Move Zeroes To the end
 8. Palindrome Number
+9. Sort Colours
+10. Single Number
 
 I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
 

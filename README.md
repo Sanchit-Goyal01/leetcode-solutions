@@ -17,5 +17,8 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 11. Reverse Integer
 12. Maximum Subarray
 13. Fibonacci Series
+14. Majiority Element
+
+
 I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
 

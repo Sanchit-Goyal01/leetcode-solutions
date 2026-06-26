@@ -14,6 +14,8 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 8. Palindrome Number
 9. Sort Colours
 10. Single Number
-
+11. Reverse Integer
+12. Maximum Subarray
+13. Fibonacci Series
 I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
 

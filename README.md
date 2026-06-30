@@ -22,6 +22,7 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 16. Rearrange elements by sign
 17. Next Permutation
 18. Rotate Image
+19. Spiral Matrix
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

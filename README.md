@@ -23,6 +23,16 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 17. Next Permutation
 18. Rotate Image
 19. Spiral Matrix
+20. Pascal Triangle
+21. Majiority Element 2
+22. 3 SUM
+23. 4 SUM
+24. Merge intervals
+25. Merge Sorted Arrays
+26. Reverse Pairs
+27. Binary Search
+28. Search Insert Position
+29. Find First and Last position of element in sorted array
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

@@ -33,6 +33,11 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 27. Binary Search
 28. Search Insert Position
 29. Find First and Last position of element in sorted array
+30. Search in Rotated Sorted Array
+31. Search in Rotated Sorted Array 2
+32. Find Minimum in Rotated Sorted Array
+33. Single Element in a Sorted Array
+34. Find Peak Element
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

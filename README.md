@@ -38,6 +38,8 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 32. Find Minimum in Rotated Sorted Array
 33. Single Element in a Sorted Array
 34. Find Peak Element
+35. KOKO eating banana
+36. 
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

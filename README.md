@@ -39,7 +39,10 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 33. Single Element in a Sorted Array
 34. Find Peak Element
 35. KOKO eating banana
-36. 
+36. Minimum Number of Days to Make m Bouquets
+37. Find the Smallest Divisor Given a Threshold
+38. Capacity To Ship Packages Within D Days
+39. 
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

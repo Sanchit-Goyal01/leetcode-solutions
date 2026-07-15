@@ -43,7 +43,8 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 37. Find the Smallest Divisor Given a Threshold
 38. Capacity To Ship Packages Within D Days
 39. Kth Missing Positive Number
-40. 
+40. Search 2D Matrix
+41. 
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.

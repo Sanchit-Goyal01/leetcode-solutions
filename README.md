@@ -45,6 +45,7 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 39. Kth Missing Positive Number
 40. Search 2D Matrix
 41. Search 2D Matrix II
+42. Peak Element II
 
 
 ## I am currently strengthening my problem-solving skills and DSA fundamentals through regular practice.
